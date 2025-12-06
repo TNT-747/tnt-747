@@ -8,13 +8,22 @@
     <i>Building scalable web applications & cloud infrastructures</i>
   </p>
 
+  <p>
+    <a href="https://github.com/tnt-747">
+      <img src="https://komarev.com/ghpvc/?username=tnt-747&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+    </a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=tnt-747&theme=flat&no-frame=true&margin-w=15" alt="Trophy" />
+    </a>
+  </p>
+
   <a href="mailto:kassimi.docs@gmail.com">
     <img src="https://img.shields.io/badge/Email-kassimi.docs%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/abderrahmane-kassimi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/kassi-12">
+  <a href="https://github.com/tnt-747">
     <img src="https://img.shields.io/badge/GitHub-Profile-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
@@ -66,7 +75,6 @@ I am a passionate **Full Stack Engineer** and currently a final-year student in 
   </tr>
 </table>
 
----
 
 
 ### 🏆 Certifications
@@ -93,4 +101,12 @@ I am a passionate **Full Stack Engineer** and currently a final-year student in 
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tnt-747&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%"/>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tnt-747/tnt-747/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tnt-747/tnt-747/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tnt-747/tnt-747/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
