@@ -68,15 +68,6 @@ I am a passionate **Full Stack Engineer** and currently a final-year student in 
 
 ---
 
-### 💼 Professional Experience
-
-| Role | Organization | Tech Stack |
-| :--- | :--- | :--- |
-| **Full Stack Web Intern** | Agence du Bassin Hydraulique (Oum Er-Rbia) | `Django` `React.js` `Python` `PostgreSQL` |
-| **Web Developer Intern** | ENCG | `PHP` `JavaScript` `SQL` `HTML/CSS` |
-| **SysAdmin Intern** | Agence du Bassin Hydraulique | `Windows Server` `RAID` `Network Security` |
-
-
 
 ### 🏆 Certifications
 
