@@ -1,55 +1,109 @@
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+%2F+Spring+Boot+%2F+React;Cloud+%26+DevOps+Enthusiast;Engineering+Student+at+EMSI" alt="Typing SVG" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Abderrahmane;Engineering+Student;Cloud+%26+Network+Enthusiast;DevOps+Learner" alt="Typing SVG" />
+  <h1 align="center">Hi, I'm Abderrahmane Kassimi 👋</h1>
 
-  <h2 align="center">Windows/Linux Administration | Network Management | IT Support</h2>
-
-  <p>
-    <a href="https://github.com/tnt--747">
-      <img src="https://komarev.com/ghpvc/?username=kassi-12&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
-    </a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=kassi-12&theme=flat&no-frame=true&margin-w=15" alt="Trophy" />
-    </a>
+  <p align="center">
+    <b> 🎓 5th Year Engineering Student (MIAGE) @ EMSI </b><br/>
+    <i>Building scalable web applications & cloud infrastructures</i>
   </p>
 
-  <br/>
-
-  <a href="https://x.com/K81405442" target="_blank">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <a href="mailto:kassimi.docs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kassimi.docs%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/abderrahmane-kassimi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/therealkassimi" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:abdorahmankassimi12@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/kassi-12">
+    <img src="https://img.shields.io/badge/GitHub-Profile-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
 </div>
 
-<hr/>
+<br/>
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Restaurant Management Systems**
-- 🌱 I’m currently deepening my knowledge in **Computer and Network Engineering**
-- 💬 Ask me about **C++, Networking, and Linux Administration**
-- 📂 View my portfolio: **[kassimi-portfolio.vercel.app](https://kassimi.vercel.app/)**
+I am a passionate **Full Stack Engineer** and currently a final-year student in **Computer Science & Networks (MIAGE)** at **EMSI Rabat**. I combine strong software development skills with infrastructure knowledge.
 
+- 🔭 I’m currently looking for a **PFE (End of Studies Internship)** starting **February 2026**.
+- 🌱 My core stack is **Spring Boot (Java)**, **React.js**, and **Django (Python)**.
+- ☁️ I am certified in **Microsoft Azure (AZ-900)** and **Cisco (CCNA)**.
+- 💡 I love solving problems using **Clean Architecture** and **DevOps** practices.
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 Technical Stack
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><b>Frontend</b></td>
+    <td align="center" width="25%"><b>Backend</b></td>
+    <td align="center" width="25%"><b>DevOps & Cloud</b></td>
+    <td align="center" width="25%"><b>Databases</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,spring,python,django,cs,dotnet,php" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=azure,docker,linux,bash,git" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,sqlserver,oracle" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-| **Languages** | **Frameworks & Tools** | **DevOps & Cloud** | **Databases** |
-|:---:|:---:|:---:|:---:|
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,php" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=laravel,django,figma,ps,git,github" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,aws,azure,nginx" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,mssql" /></a> |
+---
 
+### 💼 Professional Experience
+
+| Role | Organization | Tech Stack |
+| :--- | :--- | :--- |
+| **Full Stack Web Intern** | Agence du Bassin Hydraulique (Oum Er-Rbia) | `Django` `React.js` `Python` `PostgreSQL` |
+| **Web Developer Intern** | ENCG | `PHP` `JavaScript` `SQL` `HTML/CSS` |
+| **SysAdmin Intern** | Agence du Bassin Hydraulique | `Windows Server` `RAID` `Network Security` |
+
+---
+
+### 📂 Featured Projects
+
+- **🛒 E-Commerce Platform**
+  - Built with **Java Spring Boot** (Backend).
+  - Robust architecture for handling transactions and product management.
+
+- **🍽️ Restaurant Management System**
+  - **Version 1:** Developed using **ASP.NET** and **React**.
+  - **Version 2:** Developed using **Python** and **Eel**.
+  - Features real-time order tracking and inventory management.
+
+- **🦷 Dental Cabinet Manager**
+  - Desktop application built with **Java** and **Swing**.
+
+- **☁️ Azure Content Delivery Network**
+  - Deployed and configured a CDN on **Microsoft Azure** for optimized content delivery.
+
+---
+
+### 🏆 Certifications
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals_(AZ--900)-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-CCNA_Certified-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-Database_Admin_2019-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/ALX-Software_Engineering-323330?style=flat-square" />
 </div>
 
 ---
@@ -57,20 +111,14 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kassi-12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassi-12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
+  <a href="https://github.com/kassi-12">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kassi-12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassi-12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kassi-12&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/orca">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
 </div>
