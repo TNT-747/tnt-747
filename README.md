@@ -76,26 +76,7 @@ I am a passionate **Full Stack Engineer** and currently a final-year student in 
 | **Web Developer Intern** | ENCG | `PHP` `JavaScript` `SQL` `HTML/CSS` |
 | **SysAdmin Intern** | Agence du Bassin Hydraulique | `Windows Server` `RAID` `Network Security` |
 
----
 
-### 📂 Featured Projects
-
-- **🛒 E-Commerce Platform**
-  - Built with **Java Spring Boot** (Backend).
-  - Robust architecture for handling transactions and product management.
-
-- **🍽️ Restaurant Management System**
-  - **Version 1:** Developed using **ASP.NET** and **React**.
-  - **Version 2:** Developed using **Python** and **Eel**.
-  - Features real-time order tracking and inventory management.
-
-- **🦷 Dental Cabinet Manager**
-  - Desktop application built with **Java** and **Swing**.
-
-- **☁️ Azure Content Delivery Network**
-  - Deployed and configured a CDN on **Microsoft Azure** for optimized content delivery.
-
----
 
 ### 🏆 Certifications
 
