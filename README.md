@@ -92,14 +92,14 @@ I am a passionate **Full Stack Engineer** and currently a final-year student in 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/kassi-12">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kassi-12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassi-12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/tnt-747">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tnt-747&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnt-747&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kassi-12&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tnt-747&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%"/>
 </div>
