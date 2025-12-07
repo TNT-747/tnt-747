@@ -102,7 +102,7 @@ I am a passionate **Full Stack Engineer** and currently a final-year student in 
       srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-  \
+  
   </picture>
 </div>
 
