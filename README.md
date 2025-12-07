@@ -92,8 +92,10 @@ I am a passionate **Full Stack Engineer** and currently a final-year student in 
 
 <div align="center">
   <a href="https://github.com/tnt-747">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tnt-747&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnt-747&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=tnt-747&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Github Stats" />
+  </a>
+  <a href="https://github.com/tnt-747">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnt-747&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   </a>
 </div>
 
