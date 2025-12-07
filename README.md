@@ -35,7 +35,6 @@
 
 I am a passionate **Full Stack Engineer** and currently a final-year student in **Computer Science & Networks (MIAGE)** at **EMSI Rabat**. I combine strong software development skills with infrastructure knowledge.
 
-- 🔭 I’m currently looking for a **PFE (End of Studies Internship)** starting **February 2026**.
 - 🌱 My core stack is **Spring Boot (Java)**, **React.js**, and **Django (Python)**.
 - ☁️ I am certified in **Microsoft Azure (AZ-900)** and **Cisco (CCNA)**.
 - 💡 I love solving problems using **Clean Architecture** and **DevOps** practices.
