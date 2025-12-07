@@ -102,13 +102,15 @@ I am a passionate **Full Stack Engineer** and currently a final-year student in 
       srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  \
   </picture>
 </div>
 
 <br/>
 
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tnt-747&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%"/>
+</div>
 
 <div align="center">
   <picture>
