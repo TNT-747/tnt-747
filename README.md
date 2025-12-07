@@ -81,18 +81,17 @@ I am a passionate **Full Stack Engineer** and currently a final-year student in 
 
 ---
 
+### 📕 Latest Activity
+---
+
 ### 📈 GitHub Stats
 <div align="center">
   <a href="https://github.com/tnt-747">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tnt-747&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
   <br/><br/>
-  <a href="https://github.com/tnt-747">
-    <img src="https://github-readme-stats.vercel.app/api?username=tnt-747&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/tnt-747">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnt-747&layout=compact&theme=radical&hide_border=true" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=tnt-747&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnt-747&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 <br/>
