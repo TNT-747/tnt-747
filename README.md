@@ -4,8 +4,8 @@
   <h1 align="center">Hi, I'm Abderrahmane Kassimi 👋</h1>
 
   <p align="center">
-    <b> 🎓 5th Year Engineering Student (MIAGE) @ EMSI </b><br/>
-    <i>Building scalable web applications & cloud infrastructures</i>
+    <b> 🎓 Engineering  (MIAGE) @ EMSI </b><br/>
+    <i>Building scalable full stack applications & cloud infrastructures</i>
   </p>
 
  <p>
