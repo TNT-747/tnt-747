@@ -93,9 +93,9 @@ I am a passionate **Full Stack Engineer** and currently a final-year student in 
   
   <br/>
   
-  <a href="https://github.com/tnt-747">
-    <img src="https://github-readme-stats.vercel.app/api?username=tnt-747&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  </a>
+  <a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=tnt-747&theme=dark&hide_border=true&refresh=1" alt="GitHub Streak" />
+</a>
 </div>
 
 <br/>
