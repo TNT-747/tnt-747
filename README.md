@@ -89,7 +89,7 @@ I am a passionate **Full Stack Engineer** and currently a final-year student in 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tnt-747&theme=dark&hide_border=true" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com?user=tnt-747&theme=dark&hide_border=true" alt="GitHub Streak" />
   
   <br/>
   
