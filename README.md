@@ -4,15 +4,18 @@
   <h1 align="center">Hi, I'm Abderrahmane Kassimi 👋</h1>
 
   <p align="center">
-    <b> 🎓 Engineering (MIAGE) @ EMSI </b><br/>
+    <b> 🎓 5th Year Engineering Student (MIAGE) @ EMSI </b><br/>
     <i>Building scalable web applications & cloud infrastructures</i>
   </p>
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tnt-747&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="Trophy" />
-  </a>
-
-  <br/><br/>
+  <p>
+    <a href="https://github.com/tnt-747">
+      <img src="https://komarev.com/ghpvc/?username=tnt-747&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+    </a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=tnt-747&theme=flat&no-frame=true&margin-w=15" alt="Trophy" />
+    </a>
+  </p>
 
   <a href="mailto:kassimi.docs@gmail.com">
     <img src="https://img.shields.io/badge/Email-kassimi.docs%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -21,57 +24,59 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/tnt-747">
-    <img src="https://komarev.com/ghpvc/?username=tnt-747&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
 </div>
 
 <br/>
 
 ### 👨‍💻 About Me
-I am a passionate **Full Stack Engineer** and currently a final-year student in **Computer Science & Networks (MIAGE)** at **EMSI Rabat**. I combine strong software development skills with infrastructure knowledge to build robust applications.
 
+I am a passionate **Full Stack Engineer** and currently a final-year student in **Computer Science & Networks (MIAGE)** at **EMSI Rabat**. I combine strong software development skills with infrastructure knowledge.
+
+- 🔭 I’m currently looking for a **PFE (End of Studies Internship)** starting **February 2026**.
 - 🌱 My core stack is **Spring Boot (Java)**, **React.js**, and **Django (Python)**.
 - ☁️ I am certified in **Microsoft Azure (AZ-900)** and **Cisco (CCNA)**.
 - 💡 I love solving problems using **Clean Architecture** and **DevOps** practices.
-- 🔭 Working on: **Low-code Chatbot Platform (PFA)**
 
 ---
 
 ### 🚀 Technical Stack
-<div align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="90"><b>Frontend</b></td>
-      <td align="center" width="90"><b>Backend</b></td>
-      <td align="center" width="90"><b>DevOps</b></td>
-      <td align="center" width="90"><b>Database</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap&perline=3" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=java,spring,python,django,cs,dotnet,php&perline=3" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=azure,docker,linux,bash,git&perline=3" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,sqlserver,oracle&perline=3" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><b>Frontend</b></td>
+    <td align="center" width="25%"><b>Backend</b></td>
+    <td align="center" width="25%"><b>DevOps & Cloud</b></td>
+    <td align="center" width="25%"><b>Databases</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,spring,python,django,cs,dotnet,php" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=azure,docker,linux,bash,git" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,sqlserver,oracle" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### 🏆 Certifications
+
 <div align="left">
   <img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals_(AZ--900)-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco-CCNA_Certified-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
@@ -81,20 +86,31 @@ I am a passionate **Full Stack Engineer** and currently a final-year student in 
 
 ---
 
-### 📕 Latest Activity
----
-
 ### 📈 GitHub Stats
+
 <div align="center">
-  <a href="https://github.com/tnt-747">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tnt-747&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=tnt-747&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnt-747&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tnt-747&theme=dark&hide_border=true" alt="GitHub Streak" />
+  
+  <br/>
+  
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  </picture>
 </div>
 
 <br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tnt-747&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%"/>
+</div>
 
 <div align="center">
   <picture>
