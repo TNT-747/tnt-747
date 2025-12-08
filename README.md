@@ -8,7 +8,7 @@
     <i>Building scalable web applications & cloud infrastructures</i>
   </p>
 
-  <p>
+ <p>
     <a href="https://github.com/tnt-747">
       <img src="https://komarev.com/ghpvc/?username=tnt-747&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
     </a>
@@ -35,7 +35,6 @@
 
 I am a passionate **Full Stack Engineer** and currently a final-year student in **Computer Science & Networks (MIAGE)** at **EMSI Rabat**. I combine strong software development skills with infrastructure knowledge.
 
-- 🔭 I’m currently looking for a **PFE (End of Studies Internship)** starting **February 2026**.
 - 🌱 My core stack is **Spring Boot (Java)**, **React.js**, and **Django (Python)**.
 - ☁️ I am certified in **Microsoft Azure (AZ-900)** and **Cisco (CCNA)**.
 - 💡 I love solving problems using **Clean Architecture** and **DevOps** practices.
@@ -89,18 +88,28 @@ I am a passionate **Full Stack Engineer** and currently a final-year student in 
 ### 📈 GitHub Stats
 
 <div align="center">
- <img src="https://streak-stats.demolab.com?user=tnt-747&theme=dark&hide_border=true" alt="GitHub Streak" />
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tnt-747&theme=dark&hide_border=true" alt="GitHub Streak" />
+
   <br/>
-  
-  <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=tnt-747&theme=dark&hide_border=true&refresh=1" alt="GitHub Streak" />
-</a>
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+
+  </picture>
 </div>
 
 <br/>
 
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tnt-747&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%"/>
+</div>
 
 <div align="center">
   <picture>
