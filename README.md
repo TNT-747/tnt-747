@@ -68,26 +68,44 @@ const abderrahmane = {
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-<h3>Frontend</h3>
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" />
-</td>
-<td align="center" width="25%">
-<h3>Backend</h3>
-<img src="https://skillicons.dev/icons?i=java,spring,python,django,dotnet,php" />
-</td>
-<td align="center" width="25%">
-<h3>Cloud & DevOps</h3>
-<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,linux,git,nginx" />
-</td>
-<td align="center" width="25%">
-<h3>Databases</h3>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite" />
-</td>
-</tr>
-</table>
+### Frontend
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+### Backend
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+### Cloud & DevOps
+<p>
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+</p>
+
+### Databases
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
 
 </div>
 
@@ -118,13 +136,21 @@ const abderrahmane = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=tnt-747&theme=tokyonight&hide_border=true&border_radius=8&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6E3A&currStreakNum=00D9FF&sideNums=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=70A5FD" alt="GitHub Streak" />
+<a href="https://github.com/tnt-747">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=tnt-747&theme=radical&hide_border=true" alt="GitHub Streak" />
+</a>
+<a href="https://github.com/tnt-747">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tnt-747&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tnt-747&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true&border_radius=8" alt="GitHub Stats" />
+<br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnt-747&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&border_radius=8" alt="Top Languages" />
-
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=tnt-747&theme=algolia&no-frame=true&no-bg=false&column=4&margin-w=8&margin-h=8&title=Commits,Repositories,Stars,Followers" alt="Trophies" />
+<a href="https://github.com/tnt-747">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnt-747&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</a>
+<a href="https://github.com/tnt-747">
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=tnt-747&theme=radical&no-frame=true&row=1&column=4" alt="Trophies" />
+</a>
 
 </div>
 
