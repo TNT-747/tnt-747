@@ -137,10 +137,10 @@ const abderrahmane = {
 <div align="center">
 
 <a href="https://github.com/tnt-747">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=tnt-747&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=tnt-747&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </a>
 <a href="https://github.com/tnt-747">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tnt-747&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tnt-747&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </a>
 
 <br/>
