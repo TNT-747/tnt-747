@@ -84,7 +84,7 @@ const abderrahmane = {
 </td>
 <td align="center" width="25%">
 <h3>Databases</h3>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,oracle" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite" />
 </td>
 </tr>
 </table>
@@ -110,42 +110,7 @@ const abderrahmane = {
 
 <br/>
 
----
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="35" /> Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>🤖 Low-code Chatbot Platform</h3>
-<p><strong>Final Year Project (PFA)</strong></p>
-<p>An enterprise-grade platform for building and deploying intelligent chatbots without extensive coding. Features drag-and-drop interface, natural language processing, and seamless integrations.</p>
-<p>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
-</td>
-<td width="50%" valign="top">
-<h3>☁️ Cloud Infrastructure Solutions</h3>
-<p><strong>Azure Architecture</strong></p>
-<p>Scalable cloud infrastructures leveraging Microsoft Azure services. Implements CI/CD pipelines, containerization, and infrastructure as code for automated deployments.</p>
-<p>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-</p>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
 
 ---
 
