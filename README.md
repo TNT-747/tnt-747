@@ -121,7 +121,7 @@ const Abderrahmane = {
 </a>
 
 <a href="https://github.com/TNT-747">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TNT-747&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TNT-747&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
 </a>
 
 <br/>
@@ -135,9 +135,6 @@ const Abderrahmane = {
 </a>
 
 </div>
-
-<br/>
-
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> Let's Connect
 
