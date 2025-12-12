@@ -34,7 +34,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="35" /> About Me
 
 ```typescript
-const abderrahmane = {
+const Abderrahmane = {
     role: "Full Stack Engineer & Cloud Enthusiast",
     education: "Computer Science & Networks (MIAGE) @ EMSI Rabat",
     location: "Morocco 🇲🇦",
