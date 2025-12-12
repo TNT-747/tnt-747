@@ -121,7 +121,7 @@ const Abderrahmane = {
 </a>
 
 <a href="https://github.com/TNT-747">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TNT-747&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TNT-747&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </a>
 
 <br/>
