@@ -38,25 +38,6 @@ const abderrahmane = {
     role: "Full Stack Engineer & Cloud Enthusiast",
     education: "Computer Science & Networks (MIAGE) @ EMSI Rabat",
     location: "Morocco 🇲🇦",
-    
-    expertise: {
-        backend: ["Spring Boot", "Django", ".NET", "PHP"],
-        frontend: ["React.js", "TypeScript", "Tailwind CSS"],
-        databases: ["MySQL", "PostgreSQL", "Oracle", "MongoDB"],
-        cloud: ["Microsoft Azure", "Docker", "Kubernetes"],
-        tools: ["Git", "Maven", "Gradle", "Postman"]
-    },
-    
-    certifications: [
-        "☁️ Microsoft Azure Fundamentals (AZ-900)",
-        "🌐 Cisco CCNA",
-        "💾 Oracle Database Admin 2019",
-        "💻 ALX Software Engineering"
-    ],
-    
-    currentProject: "Low-code Chatbot Platform (PFA)",
-    learning: ["Microservices", "Kubernetes", "Cloud Architecture"],
-    mindset: ["Clean Architecture", "DevOps", "Scalable Solutions"]
 };
 ```
 
