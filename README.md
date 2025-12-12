@@ -115,6 +115,14 @@ const Abderrahmane = {
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" /> GitHub Analytics
 
 <div align="center">
+
+<!-- GitHub Activity Graph -->
+<a href="https://github.com/TNT-747">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TNT-747&theme=radical&hide_border=true&bg_color=141321&color=fe428e&line=fe428e&point=f8d847" />
+</a>
+
+<br/>
+
 <a href="https://github.com/TNT-747">
   <img width="48%" src="https://streak-stats.demolab.com?user=TNT-747&theme=radical&hide_border=true" />
 </a>
@@ -128,9 +136,6 @@ const Abderrahmane = {
 <a href="https://github.com/TNT-747">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TNT-747&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
 </a>
-<div align="center">
-  <img src="https://github-readme-snake.vercel.app/api?username=TNT-747&theme=radical&bg_color=141321&color_snake=fe428e&color_dots=141321" />
-</div>
 
 </div>
 
