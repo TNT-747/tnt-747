@@ -117,25 +117,27 @@ const Abderrahmane = {
 <div align="center">
 
 <a href="https://github.com/TNT-747">
-  <img width="48%" src="https://github-readme-streak-stats.vercel.app/?user=TNT-747&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=TNT-747&theme=radical&hide_border=true" />
 </a>
+
 <a href="https://github.com/TNT-747">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TNT-747&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TNT-747&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
 </a>
 
 <br/>
 
 <a href="https://github.com/TNT-747">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TNT-747&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TNT-747&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </a>
+
 <a href="https://github.com/TNT-747">
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=TNT-747&theme=radical&no-frame=true&no-bg=true&row=1&column=4" alt="Trophies" />
+  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=TNT-747&theme=radical&no-frame=true&no-bg=true&row=1&column=4" />
 </a>
 
 </div>
 
 <br/>
----
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> Let's Connect
 
