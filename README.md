@@ -129,11 +129,9 @@ const Abderrahmane = {
 <a href="https://github.com/TNT-747">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TNT-747&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
 </a>
-
-<a href="https://github.com/TNT-747">
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=TNT-747&theme=radical&no-frame=true&no-bg=true&row=1&column=4" />
-
-</a>
+<div align="center">
+  <img src="https://github-readme-snake.vercel.app/api?username=TNT-747&theme=radical&bg_color=141321&color_snake=fe428e&color_dots=141321" />
+</div>
 
 </div>
 
