@@ -116,6 +116,13 @@ const Abderrahmane = {
 
 <div align="center">
 
+<!-- GitHub Profile Trophy -->
+<a href="https://github.com/TNT-747">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=TNT-747&theme=radical&no-frame=true&no-bg=true&column=7" />
+</a>
+
+<br/>
+
 <a href="https://github.com/TNT-747">
   <img width="48%" src="https://streak-stats.demolab.com?user=TNT-747&theme=radical&hide_border=true" />
 </a>
