@@ -112,7 +112,6 @@ const Abderrahmane = {
 
 
 ---
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" /> GitHub Analytics
 
 <div align="center">
@@ -134,6 +133,9 @@ const Abderrahmane = {
 </a>
 
 </div>
+
+<br/>
+---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" /> Let's Connect
 
