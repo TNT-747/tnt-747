@@ -66,11 +66,18 @@ const abderrahmane = {
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TNT-747&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
+<a href="https://github.com/TNT-747">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TNT-747&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TNT-747&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TNT-747&theme=react&hide_border=true&background=0D1117)
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TNT-747&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+<div align="center">
+  
+<a href="https://github.com/TNT-747">
+  <img src="https://streak-stats.demolab.com/?user=TNT-747&theme=algolia&hide_border=false"/>
+</a>
 
 </div>
 
