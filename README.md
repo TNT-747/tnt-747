@@ -76,7 +76,7 @@ const abderrahmane = {
 <div align="center">
   
 <a href="https://github.com/TNT-747">
-  <img src="https://streak-stats.demolab.com/?user=TNT-747&theme=algolia&hide_border=false"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=TNT-747&theme=algolia&hide_border=false"/>
 </a>
 
 </div>
