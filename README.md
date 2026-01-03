@@ -52,6 +52,50 @@ const abderrahmane = {
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=TNT-747&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TNT-747&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TNT-747&theme=react&hide_border=true&background=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TNT-747&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TNT-747&custom_title=TNT-747's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/TNT-747/TNT-747/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
