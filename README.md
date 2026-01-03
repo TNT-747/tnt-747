@@ -52,69 +52,6 @@ const abderrahmane = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TNT-747&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" width="100%" alt="Trophy" />
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TNT-747&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TNT-747&theme=radical&hide_border=false" height="170" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TNT-747&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TNT-747&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=false" width="100%" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TNT-747/TNT-747/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TNT-747/TNT-747/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TNT-747/TNT-747/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-## 💼 Experience
-
-**🔹 Full Stack Developer Intern** | *Aug - Sep 2025*  
-*Agence du Bassin Hydraulique, Beni Mellal*
-- Built hydrological monitoring platform with Django & React
-- Implemented RESTful APIs and interactive dashboards
-- **Tech:** Python, Django, React.js, SQLite
-
-**🔹 Web Developer Intern** | *Aug - Sep 2024*  
-*ENCG, Beni Mellal*
-- Optimized schedule management system
-- Enhanced UX and resolved critical bugs
-- **Tech:** PHP, JavaScript, MySQL
-
----
-
-## 🚀 Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **🛒 E-commerce Platform** | Microservices architecture with Spring Boot & React | Java, Spring Boot, React, MySQL, Docker |
-| **🏦 Banking System** | REST API for account & transaction management | Java, Spring Boot, JPA/Hibernate, MySQL |
-| **🦷 Dental Clinic** | Desktop app for patient management | Java SE, Swing, JDBC, MySQL |
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -147,17 +84,7 @@ const abderrahmane = {
 
 ---
 
-## 🎓 Education
-
-| Degree | Institution | Period |
-|--------|-------------|--------|
-| **Engineering - IT & Networks** | EMSI, Rabat (MIAGE) | 2023 - Present |
-| **Software Engineering** | ALX Academy (Holberton) | 2023 - 2025 |
-| **Digital Infrastructure** | ISTA NTIC, Beni Mellal | 2021 - 2023 |
-
----
-
-## 🏅 Certifications
+##  Certifications
 
 <div align="center">
 
