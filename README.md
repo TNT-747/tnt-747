@@ -55,7 +55,7 @@ const abderrahmane = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TNT-747&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TNT-747&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" width="100%" alt="Trophy" />
 </div>
 
 ---
@@ -63,13 +63,16 @@ const abderrahmane = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TNT-747&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&rank_icon=github" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TNT-747&theme=tokyonight&hide_border=true&background=1a1b27&stroke=38bdae&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" width="49%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TNT-747&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TNT-747&theme=radical&hide_border=false" height="170" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TNT-747&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8" width="49%" alt="Top Languages"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TNT-747&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true&height=300" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TNT-747&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TNT-747&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=false" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
