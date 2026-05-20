@@ -2,15 +2,15 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abderrahmane%20Kassimi&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Engineer;Java+%7C+Spring+Boot+%7C+React;Python+%7C+Django+%7C+AI;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Test+Automation+Engineer+%40+Capgemini;Java+%7C+Selenium+%7C+Spring+Boot;Full+Stack+Developer;Python+%7C+TypeScript+%7C+React" alt="Typing SVG" /></a>
 
 <br/>
 
 <!-- Status Badges -->
 <p>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Engineering-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Test%20Automation%20Engineer-0078D4?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Company-Capgemini-0070AD?style=for-the-badge&logo=capgemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Rabat%2C%20Morocco-00A86B?style=for-the-badge&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-28A745?style=for-the-badge&logo=handshake&logoColor=white" />
 </p>
 
 <!-- Social Badges -->
@@ -38,17 +38,24 @@
 
 ```javascript
 const abderrahmane = {
-    role: "Full Stack Engineer",
-    education: "EMSI Rabat | Engineering Degree",
-    specialization: "MIAGE (Software & Systems)",
-    status: "Graduating 2026 — Open to Opportunities",
+    role: "Test Automation Engineer",
+    company: "Capgemini",
+    education: "EMSI Rabat | Software Engineering (MIAGE)",
     location: "Rabat, Morocco 🇲🇦",
     languages: ["Arabic", "French", "English"],
-    interests: ["Web Development", "AI/ML", "Cloud", "Microservices"]
+    passions: ["Test Automation", "Full Stack Dev", "AI/ML", "Cloud & DevOps"]
 };
 ```
 
-**Software Engineer** graduating from EMSI Rabat, specializing in Full Stack Development with **Java/Spring Boot**, **React/TypeScript**, **Python/Django**, and **Cloud/DevOps** technologies. Passionate about building scalable applications and exploring AI.
+**Test Automation Engineer** at **Capgemini** 🔵 | Engineering graduate from EMSI Rabat (MIAGE). I design and implement automated testing frameworks while maintaining a strong passion for full stack development. Experienced with **Java/Selenium**, **Spring Boot**, **React/TypeScript**, **Python/Django**, and **Cloud** technologies.
+
+---
+
+## 💼 What I Do
+
+🔹 **At Capgemini** — Building robust test automation solutions, writing automated test suites, and ensuring software quality at scale  
+🔹 **Side Projects** — Full stack applications, AI experiments, and open-source contributions  
+🔹 **Tech Stack** — Java, Selenium, Spring Boot, React, TypeScript, Python, Docker, CI/CD  
 
 ---
 
@@ -57,13 +64,14 @@ const abderrahmane = {
 | Project | Tech | Description |
 |---------|------|-------------|
 | [InvestTrack](https://github.com/TNT-747/investtrack) | Java, Spring Boot, Microservices | Financial Portfolio Management Platform |
-| [TheDungeon](https://github.com/TNT-747/thedungeon) | JavaScript | Interactive web application — [Live Demo](https://thedungeon.vercel.app) |
-| [Catalogue](https://github.com/TNT-747/catalogue-) | TypeScript | Product catalog app — [Live Demo](https://catalogue-xi-virid.vercel.app) |
+| [TheDungeon](https://github.com/TNT-747/thedungeon) | JavaScript | Interactive web app — [Live](https://thedungeon.vercel.app) |
+| [Catalogue](https://github.com/TNT-747/catalogue-) | TypeScript | Product catalog — [Live](https://catalogue-xi-virid.vercel.app) |
 | [E-Bank](https://github.com/TNT-747/ebank) | Java, Spring Boot | Digital banking application |
-| [Portfolio](https://github.com/TNT-747/Portfolio) | TypeScript | Personal portfolio — [Live Demo](https://portfolio-xkkl.vercel.app) |
+| [Portfolio](https://github.com/TNT-747/Portfolio) | TypeScript | Personal portfolio — [Live](https://portfolio-xkkl.vercel.app) |
 | [Py-IA](https://github.com/TNT-747/py-ia) | Python | AI & Machine Learning experiments |
 | [MoviMath](https://github.com/TNT-747/moviMath) | Dart/Flutter | Mobile application |
 | [SIG](https://github.com/TNT-747/sig) | Python | Geographic Information System |
+| [Rapport PFE](https://github.com/TNT-747/rapport-pfe) | LaTeX | End-of-studies report |
 
 ---
 
@@ -122,6 +130,11 @@ const abderrahmane = {
 
 <div align="center">
 
+<!-- Test Automation -->
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+<img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testing-library&logoColor=white" />
+
 <!-- Backend -->
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
@@ -148,6 +161,7 @@ const abderrahmane = {
 <!-- DevOps & Tools -->
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
@@ -172,8 +186,6 @@ const abderrahmane = {
 ## 📫 Contact Me
 
 <div align="center">
-
-**🎓 Graduating Engineer — Open to Full-Time Opportunities**
 
 📧 **Email:** kassimi.docs@gmail.com  
 📱 **Phone:** +212 6 50 24 01 75  
