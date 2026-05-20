@@ -1,16 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abderrahmane%20Kassimi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abderrahmane%20Kassimi&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Software+Engineer+%F0%9F%92%BB;EMSI+Student+%7C+5th+Year;Seeking+Internship+Feb+2026" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Engineer;Java+%7C+Spring+Boot+%7C+React;Python+%7C+Django+%7C+AI;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" /></a>
 
 <br/>
 
 <!-- Status Badges -->
 <p>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Engineering-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Rabat%2C%20Morocco-00A86B?style=for-the-badge&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Available-Feb%202026-FF6B6B?style=for-the-badge&logo=calendar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-28A745?style=for-the-badge&logo=handshake&logoColor=white" />
 </p>
 
 <!-- Social Badges -->
@@ -38,17 +38,32 @@
 
 ```javascript
 const abderrahmane = {
-    role: "Full Stack Developer",
-    education: "EMSI Rabat | 5th Year Engineering",
+    role: "Full Stack Engineer",
+    education: "EMSI Rabat | Engineering Degree",
     specialization: "MIAGE (Software & Systems)",
-    seeking: "4-6 Month Internship",
-    startDate: "February 2026",
+    status: "Graduating 2026 — Open to Opportunities",
     location: "Rabat, Morocco 🇲🇦",
-    languages: ["Arabic", "French", "English"]
+    languages: ["Arabic", "French", "English"],
+    interests: ["Web Development", "AI/ML", "Cloud", "Microservices"]
 };
 ```
 
-**5th Year Engineering Student** at EMSI Rabat specializing in Full Stack Development with **Java/Spring Boot**, **React**, **Python/Django**, and **Cloud Technologies**.
+**Software Engineer** graduating from EMSI Rabat, specializing in Full Stack Development with **Java/Spring Boot**, **React/TypeScript**, **Python/Django**, and **Cloud/DevOps** technologies. Passionate about building scalable applications and exploring AI.
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Tech | Description |
+|---------|------|-------------|
+| [InvestTrack](https://github.com/TNT-747/investtrack) | Java, Spring Boot, Microservices | Financial Portfolio Management Platform |
+| [TheDungeon](https://github.com/TNT-747/thedungeon) | JavaScript | Interactive web application — [Live Demo](https://thedungeon.vercel.app) |
+| [Catalogue](https://github.com/TNT-747/catalogue-) | TypeScript | Product catalog app — [Live Demo](https://catalogue-xi-virid.vercel.app) |
+| [E-Bank](https://github.com/TNT-747/ebank) | Java, Spring Boot | Digital banking application |
+| [Portfolio](https://github.com/TNT-747/Portfolio) | TypeScript | Personal portfolio — [Live Demo](https://portfolio-xkkl.vercel.app) |
+| [Py-IA](https://github.com/TNT-747/py-ia) | Python | AI & Machine Learning experiments |
+| [MoviMath](https://github.com/TNT-747/moviMath) | Dart/Flutter | Mobile application |
+| [SIG](https://github.com/TNT-747/sig) | Python | Geographic Information System |
 
 ---
 
@@ -112,12 +127,18 @@ const abderrahmane = {
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
 <!-- Frontend -->
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<!-- Mobile -->
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 
 <!-- Databases -->
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -135,7 +156,7 @@ const abderrahmane = {
 
 ---
 
-##  Certifications
+## 🎓 Certifications
 
 <div align="center">
 
@@ -152,7 +173,7 @@ const abderrahmane = {
 
 <div align="center">
 
-**Looking for 4-6 month internship starting February 2026**
+**🎓 Graduating Engineer — Open to Full-Time Opportunities**
 
 📧 **Email:** kassimi.docs@gmail.com  
 📱 **Phone:** +212 6 50 24 01 75  
